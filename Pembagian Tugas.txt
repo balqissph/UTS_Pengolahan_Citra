@@ -1,0 +1,11 @@
+Pembagian Tugas 
+
+Mahasiswa 1 ( Balqis Amanda ):
+- Fokus pada coding (implementasi program) 
+- Pengolahan citra & eksperimen 
+- Bab 4 Hasil dan Pembahasan dan Bab 5 Kesimpulan
+
+Mahasiswa 2 ( Cantikka May ):
+- Penulisan Makalah ( Abstrak, Bab 1 Pendahuluan, Bab 2 Tinjauan Pustaka, Bab 3 Metodologi )
+- Penulisan Proposal singkat
+- Studi literatur
